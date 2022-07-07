@@ -18,6 +18,7 @@ int main()
 	// this is used as the source photo file
 
 	flOut = fopen("bright.bmp", "wb");
+	//enter file name above
 	//make variable to store value, and make a new/replace a photo file
 	//this will be the result of bright photo
 
