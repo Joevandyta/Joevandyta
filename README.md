@@ -1,2 +1,2 @@
 Hi, I’m @Joevandyta
-Follow me in instagram @joevandyta
+bot, dont roast me
