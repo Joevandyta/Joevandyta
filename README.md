@@ -2,7 +2,7 @@
 <h3 align="center">Android & Web App Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;Kotlin+%26+Java+Enthusiast;Always+Learning+New+Things;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=F7A41D&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=F7A41D&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 <br>
